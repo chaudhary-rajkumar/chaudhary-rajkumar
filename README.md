@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23128
-Fork on GitHub
-7787
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Rajkumar Chaudhary</h1>
 <h3 align="center">A passionate frontend & Python developer from Nepal</h3>
 
